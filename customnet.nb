@@ -10,7 +10,6 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       161,          7]
-NotebookOutlinePosition[     87192,       2349]
 NotebookDataLength[    104796,       2539]
 NotebookOptionsPosition[     86818,       2328]
 NotebookOutlinePosition[     87165,       2343]
